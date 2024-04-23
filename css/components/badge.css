@@ -1,0 +1,23 @@
+.badge {
+    background-color: tomato;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color :white;
+    font-weight: 600;
+}
+.p-circle {
+    position: relative;
+}
+.red-circle {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 15px;
+    position: absolute;
+    top: 0px;
+    
+}
